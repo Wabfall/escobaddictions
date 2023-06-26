@@ -7,7 +7,7 @@
           <value>
             <JupyterConnectionParameters>
               <option name="managed" value="true" />
-              <option name="sdkHomePath" value="C:\Users\andonin.cousseau\PycharmProjects\Data\venv\Scripts\python.exe" />
+              <option name="sdkHomePath" value="C:\Users\damie\AppData\Local\Programs\Python\Python311\python.exe" />
             </JupyterConnectionParameters>
           </value>
         </entry>
