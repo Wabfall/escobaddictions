@@ -11,3 +11,8 @@
     Profil des substances et effets sur la santé : Étudiez les effets sur la santé associés à différentes substances. Analysez les données sur les décès liés aux drogues pour comprendre les substances les plus dangereuses et leurs effets sur la santé, tels que les overdoses, les maladies associées, etc.
 
     Analyse des politiques : Évaluez l'efficacité des politiques de lutte contre les drogues en comparant les données sur les arrestations, les saisies, les traitements, etc., dans différents contextes géographiques. Identifiez les approches politiques les plus réussies et les bonnes pratiques en matière de réduction des méfaits.
+
+- Impact du trafic de drogue sur la criminalité.
+- Influence de la situation économique sur le trafic de drogue.
+- Effets socio-économiques de la consommation de drogues.
+- Étude comparative des politiques de lutte contre la drogue.
